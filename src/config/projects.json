@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Farm Land 1",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, quia. Iure animi, consequatur, error, delectus quis totam eum a atque quae ex blanditiis. Ipsam officiis pariatur itaque exercitationem nobis voluptatem dolore incidunt suscipit nihil perspiciatis tempora sunt, blanditiis explicabo aliquam, nisi earum ex quas consequatur natus in soluta harum reprehenderit porro! Iste minus, quibusdam perferendis eius impedit deserunt modi odit vel in tenetur cupiditate esse assumenda numquam laudantium, quo minima voluptatibus at odio eum pariatur! Libero corporis ex quos harum consequatur nisi quo odio. Placeat et reprehenderit aut consectetur expedita, odit cupiditate quos ratione rerum aperiam sequi? Veniam, quis sunt!"
+        , "images":"images/fingerprint.svg"
+    },
+    {
+        "title":"Farm Land 2",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, quia. Iure animi, consequatur, error, delectus quis totam eum a atque quae ex blanditiis. Ipsam officiis pariatur itaque exercitationem nobis voluptatem dolore incidunt suscipit nihil perspiciatis tempora sunt, blanditiis explicabo aliquam, nisi earum ex quas consequatur natus in soluta harum reprehenderit porro! Iste minus, quibusdam perferendis eius impedit deserunt modi odit vel in tenetur cupiditate esse assumenda numquam laudantium, quo minima voluptatibus at odio eum pariatur! Libero corporis ex quos harum consequatur nisi quo odio. Placeat et reprehenderit aut consectetur expedita, odit cupiditate quos ratione rerum aperiam sequi? Veniam, quis sunt!"
+        , "images":"images/fingerprint.svg"
+    },
+    {
+        "title":"Farm Land 3",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, quia. Iure animi, consequatur, error, delectus quis totam eum a atque quae ex blanditiis. Ipsam officiis pariatur itaque exercitationem nobis voluptatem dolore incidunt suscipit nihil perspiciatis tempora sunt, blanditiis explicabo aliquam, nisi earum ex quas consequatur natus in soluta harum reprehenderit porro! Iste minus, quibusdam perferendis eius impedit deserunt modi odit vel in tenetur cupiditate esse assumenda numquam laudantium, quo minima voluptatibus at odio eum pariatur! Libero corporis ex quos harum consequatur nisi quo odio. Placeat et reprehenderit aut consectetur expedita, odit cupiditate quos ratione rerum aperiam sequi? Veniam, quis sunt!"
+        , "images":"images/fingerprint.svg"
+    }
+]
